@@ -47,7 +47,7 @@ Além disso, estou realizando cursos complementares, como desenvolvimento web pe
     title="GitHub"
     width="40px"
     style="padding-right: 10px;"
-    src="https://devicon-website.vercel.app/api/github/original.svg" 
+    src = " https://devicon-website.vercel.app/api/github/original.svg "
 />
 
 <br>
