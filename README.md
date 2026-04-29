@@ -47,7 +47,7 @@ Além disso, estou realizando cursos complementares, como desenvolvimento web pe
     title="GitHub"
     width="40px"
     style="padding-right: 10px;"
-    src = "https://cdn.simpleicons.org/github"
+    src = "https://www.svgrepo.com/show/475654/github-color.svg"
 />
 
 <br>
