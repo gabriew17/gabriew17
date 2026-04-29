@@ -13,41 +13,41 @@ Além disso, estou realizando cursos complementares, como desenvolvimento web pe
     align="left"
     alt="HTML"
     title="HTML"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+     src="https://devicon-website.vercel.app/api/html5/original.svg" 
 />
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
+    alt="CSS"
+    title="CSS"
+    width="40px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+    src="https://devicon-website.vercel.app/api/css3/original.svg" 
 />
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
+    alt="JavaScript"
+    title="JavaScript"
+    width="40px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+    src="https://devicon-website.vercel.app/api/javascript/original.svg" 
 />
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
+    alt="Git"
+    title="Git"
+    width="40px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+    src="https://devicon-website.vercel.app/api/git/original.svg" 
 />
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
+    alt="GitHub"
+    title="GitHub"
+    width="40px"
     style="padding-right: 10px;"
-    src="https://devicon-website.vercel.app/api/html5/original.svg" 
+    src="https://devicon-website.vercel.app/api/github/original.svg" 
 />
 
 <br>
